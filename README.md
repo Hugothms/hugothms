@@ -2,10 +2,10 @@
 <details open>
 <summary><b> Check some of those fun stats</b></summary>
 
-![bio](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hugothms&show_icons=true&line_height=27&include_all_commits=true)
+![bio](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hugothms&show_icons=true&line_height=27&include_all_commits=true&count_private=true)
 ![bio](https://github-readme-stats.vercel.app/api/top-langs/?username=hugothms&langs_count=8&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hugothms)
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=hugothms)-->
 
 
 </details>
