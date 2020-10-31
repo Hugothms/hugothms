@@ -6,6 +6,7 @@
 
 ## :bust_in_silhouette: About me
 * :raising_hand: Pronouns: he/him
+* 🇫🇷 I'm french living in Paris
 * :seedling: I’m currently learning Computer Science at 42 Paris
 * :heart: I like to code :computer:, photography :camera:, and do some sport :swimmer: on my free time
 * :zap: Fun fact: idk yet
