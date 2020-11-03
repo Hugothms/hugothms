@@ -10,7 +10,6 @@
 * 🇫🇷 I'm french living in Paris
 * 🌱 I’m currently learning Computer Science at 42 Paris
 * ❤️ I like to code :computer:, photography :camera:, and do some sport :swimmer: on my free time
-* ⚡️ Fun fact: I have had gray hair since I was 21
 * 🔥  Available for Freelance projects/internship opportunities
 
 
