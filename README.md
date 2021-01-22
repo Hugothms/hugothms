@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/10346477/hugothms"><img src="https://img.shields.io/badge/stackoverflow-F88200.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 
 
-## 👤 Tech I use
+## 💻 Tech I use
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
