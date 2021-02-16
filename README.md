@@ -6,8 +6,7 @@
 
 
 ## 👤 About me
-* 🙋🏻‍♂️ Pronouns: he/him
-* 🇫🇷 I'm french living in Paris
+* 🇫🇷 I'm a french guy living in Paris
 * 🌱 I’m currently learning Computer Science at 42 Paris
 * ❤️ I like to code :computer:, photography :camera:, and do some sport :swimmer: on my free time
 * 🔥  Available for Freelance projects/internship opportunities
