@@ -8,7 +8,7 @@
 ## 👤 About me
 * 🇫🇷 I'm a french guy living in Paris
 * 🌱 I’m currently learning Computer Science at 42 Paris
-* ❤️ I like to code :computer:, photography :camera:, and do some sport :swimmer: on my free time
+* ❤️ I like code :computer:, photography :camera:, and sport :swimmer:
 * 🔥  Available for Freelance projects/internship opportunities
 
 
