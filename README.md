@@ -8,7 +8,7 @@
 ## :bust_in_silhouette: About me
 * :man: Pronouns: He/Him
 * :fr: French living in Paris
-* :seedling: Currently learning Computer Science at 42 Paris
+* :seedling: Currently working on a web application in my cursus at 42
 * :heart: I like code :computer:, photography :camera_flash:, and sport :swimmer: :boxing_glove: :climbing:
 * :fire: Available for freelance projects
 
