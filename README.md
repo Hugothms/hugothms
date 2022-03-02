@@ -10,7 +10,7 @@
 * :fr: French living in Paris
 * :seedling: Currently working on a web application in my cursus at 42
 * :heart: I like code :computer:, photography :camera_flash:, and sport :swimmer: :boxing_glove: :climbing:
-* :fire: Available for freelance projects
+<!-- * :fire: Available for freelance projects -->
 
 
 <!--
