@@ -14,7 +14,7 @@
 
 * :man: Pronouns: He/Him
 * :fr: French living in Paris
-* :seedling: Currently working on a web application in my cursus at 42
+* :seedling: Currently in internship at Station F as web developer
 * :heart: I like code :computer:, photography :camera_flash:, and sport :swimmer: :boxing_glove: :climbing:
 <!-- * :fire: Available for freelance projects -->
 
