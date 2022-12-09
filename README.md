@@ -14,7 +14,7 @@
 
 * :man: Pronouns: He/Him
 * :fr: French living in Paris
-* :seedling: Currently in internship at Station F as web developer
+* :seedling: Currently fullstack developer @iroko
 * :heart: I like code :computer:, photography :camera_flash:, and sport :swimmer: :boxing_glove: :climbing:
 <!-- * :fire: Available for freelance projects -->
 
